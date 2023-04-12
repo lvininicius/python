@@ -1,5 +1,5 @@
 *Para voce iniciar o codigo, voce precisa executar os seguintes comandos
-*Lembrando que so funcionara em ambientes Linux
+*Lembrando que so funcionara em ambientes Linux devido a integração que iremos realizar em sistemas embarcados.
 
 1 - apt install pip
 2 - pip install -r config-start-linux.txt
