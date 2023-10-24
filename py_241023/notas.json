@@ -1,0 +1,23 @@
+{
+    "1": {
+        "nomes": "LUCAS",
+        "notas": [
+            1.0,
+            2.0
+        ]
+    },
+    "2": {
+        "nomes": "GABRIEL",
+        "notas": [
+            1.0,
+            2.0
+        ]
+    },
+    "3": {
+        "nomes": "OLIVEIRA",
+        "notas": [
+            1.0,
+            2.0
+        ]
+    }
+}
